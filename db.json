@@ -1,0 +1,63 @@
+{
+  "users": [
+    {
+      "email": "cuongbui1572003@gmail.com",
+      "password": "$2a$10$PQb5EKkKdS5rBQquT3gUMe3ukv1c6GzDZYtXrnwI/rr5/xvrpi5GS",
+      "fullname": "Bùi Tiến Cường",
+      "confirmPassword": "111111",
+      "id": 1
+    },
+    {
+      "email": "cuongbui@gmail.com",
+      "password": "$2a$10$IO42XOsubBX8MFSX2yDLHOiLPiTvUb78UHMCl6HpY..rSJNM6Y7Cq",
+      "fullname": "Bùi Tiến Cường",
+      "confirmPassword": "111111",
+      "id": 2
+    },
+    {
+      "email": "cuongbui1@gmail.com",
+      "password": "$2a$10$vPg/KWV9BOtMu/0WSlhBXOz8/5f84cKspJAFKE2gbDxVITb04q42u",
+      "fullname": "Bùi Tiến Cường",
+      "confirmPassword": "111111",
+      "id": 3
+    },
+    {
+      "email": "cuongbui12@gmail.com",
+      "password": "$2a$10$ysSmQORKl5tgdw5ffl.SVOm/wroVt2rwT0smKRAEdySmQySoPgBMi",
+      "fullname": "Bùi Tiến Cường",
+      "id": 4
+    },
+    {
+      "email": "cuongbui122@gmail.com",
+      "password": "$2a$10$R3lB5fCK6jUOshYSut5f4eFO2.IXBnAQuViNdsmXylM.ja2E4b1wW",
+      "fullname": "Bùi Tiến Cường",
+      "id": 5
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "IPhone14",
+      "brand": "Apple",
+      "description": "Iphone đẹp dùng bao sang",
+      "price": 10000,
+      "origin": "China"
+    },
+    {
+      "id": 2,
+      "name": "IPhone14",
+      "brand": "Apple",
+      "description": "Iphone đẹp dùng bao sang",
+      "price": 10000,
+      "origin": "China"
+    },
+    {
+      "id": 3,
+      "name": "IPhone14",
+      "brand": "Apple",
+      "description": "Iphone đẹp dùng bao sang",
+      "price": 10000,
+      "origin": "China"
+    }
+  ]
+}
